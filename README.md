@@ -7,7 +7,7 @@ Simple Drag&Drop App utilizing Here Technologies Maps&Geocoding services.
 Use the package manager [npm](https://npmjs.com) to install here-drag-and-drop.
 
 ```bash
-npm install 
+git clone && npm install 
 ```
 
 ## Usage
