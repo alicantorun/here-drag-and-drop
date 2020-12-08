@@ -1,6 +1,6 @@
 # here-drag-and-drop
 
-Simple Drag&Drop App utilizing Here Technologies Maps&Geocoding services.w
+Simple Drag&Drop App utilizing Here Technologies Maps&Geocoding services.
 
 ## Installation
 
