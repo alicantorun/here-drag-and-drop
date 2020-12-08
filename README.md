@@ -8,7 +8,11 @@ Use the package manager [npm](https://npmjs.com) to install here-drag-and-drop.
 
 ```bash
 git clone https://github.com/alicantorun/here-drag-and-drop.git
- npm install 
+```
+Change directory 
+
+```bash
+npm install
 ```
 
 ## Usage
